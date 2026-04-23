@@ -1,0 +1,35 @@
+# Source / tests
+src/
+tests/
+__tests__/
+coverage/
+
+# Config files
+jest.config.js
+jest.config.ts
+tsconfig.json
+tsup.config.ts
+webpack.config.js
+rollup.config.js
+
+# Tooling / local env
+.vscode/
+.idea/
+.env
+.env.*
+
+# Git / CI
+.git/
+.github/
+.gitignore
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docs drafts
+*.md.bak
